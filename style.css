@@ -1,0 +1,22 @@
+body{
+    background: salmon; 
+}
+.btn{
+    position: absolute;
+    bottom: 200px;
+    left: 900px;
+    height: 100px;
+    width: 300px;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.bulb{
+    position: absolute;
+    left: 900px;
+    bottom: 500px;
+}
+.btn:hover{
+    color: sienna;
+    font-style: italic;
+    background: slateblue;
+}
